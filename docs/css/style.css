@@ -64,6 +64,8 @@ h3 {
     padding-top: 1.2rem;
 }
 
-p > img {
+footer {
     padding-bottom: 3rem;
+    font-size: xx-small;
+    text-align: right;
 }
