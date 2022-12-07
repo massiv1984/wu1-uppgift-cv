@@ -32,7 +32,7 @@ main {
 }
 
 main > p {
-    max-width: min(80ch, 100wv - 4rem);
+    max-width: min(80ch, 100vw - 4rem);
     margin-inline: auto;
 }
 
